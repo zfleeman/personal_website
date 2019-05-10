@@ -1,0 +1,26 @@
+name: "Zach Fleeman's Website"
+navbar:
+  title: "Zach Fleeman"
+  left:
+    - text: "YouTube"
+      href: http://youtube.com/zfleeman
+      icon: fa-youtube
+    - text: "Twitter"
+      href: http://twitter.com/zfleeman
+      icon: fa-twitter
+    - text: "LinkedIn"
+      href: http://www.linkedin.com/in/zach-fleeman-21401b47
+      icon: fa-linkedin
+    - text: "GitHub"
+      href: http://github.com/zfleeman
+      icon: fa-github
+    - text: "Resume"
+      href: zach_fleeman_resume.pdf
+      icon: fa-file-text-o
+    - text: "Blog"
+      href: http://blog.zfleeman.com
+      icon: fa-rss
+output:
+  html_document:
+    theme: flatly
+    css: style.css
