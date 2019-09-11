@@ -17,9 +17,6 @@ navbar:
     - text: "Resume"
       href: zach_fleeman_resume.pdf
       icon: fa-file-text-o
-    - text: "Blog"
-      href: http://blog.zfleeman.com
-      icon: fa-rss
 output:
   html_document:
     theme: flatly
